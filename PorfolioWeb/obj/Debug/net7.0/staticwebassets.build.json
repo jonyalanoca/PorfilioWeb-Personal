@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GTxeWxR2VkUUsM4dzQ6qwBOiyvl9IV0gzWlAM3/OJ+8=",
+  "Hash": "QqsGRtBImVlRUBrScntfiSxiMBowUq2metK20QGk7ig=",
   "Source": "PorfolioWeb",
   "BasePath": "_content/PorfolioWeb",
   "Mode": "Default",
@@ -1139,12 +1139,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\jonya\\Desktop\\PorfolioWeb\\PorfolioWeb\\wwwroot\\imagenes\\general\\jony.jpg",
+      "Identity": "C:\\Users\\jonya\\Desktop\\PorfolioWeb\\PorfolioWeb\\wwwroot\\imagenes\\general\\aboutYo.jpeg",
       "SourceId": "PorfolioWeb",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\jonya\\Desktop\\PorfolioWeb\\PorfolioWeb\\wwwroot\\",
       "BasePath": "_content/PorfolioWeb",
-      "RelativePath": "imagenes/general/jony.jpg",
+      "RelativePath": "imagenes/general/aboutYo.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1153,7 +1153,41 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\general\\jony.jpg"
+      "OriginalItemSpec": "wwwroot\\imagenes\\general\\aboutYo.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\jonya\\Desktop\\PorfolioWeb\\PorfolioWeb\\wwwroot\\imagenes\\general\\fondo_tecnologia.jpg",
+      "SourceId": "PorfolioWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonya\\Desktop\\PorfolioWeb\\PorfolioWeb\\wwwroot\\",
+      "BasePath": "_content/PorfolioWeb",
+      "RelativePath": "imagenes/general/fondo_tecnologia.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\general\\fondo_tecnologia.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\jonya\\Desktop\\PorfolioWeb\\PorfolioWeb\\wwwroot\\imagenes\\general\\principal.jpg",
+      "SourceId": "PorfolioWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jonya\\Desktop\\PorfolioWeb\\PorfolioWeb\\wwwroot\\",
+      "BasePath": "_content/PorfolioWeb",
+      "RelativePath": "imagenes/general/principal.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\general\\principal.jpg"
     },
     {
       "Identity": "C:\\Users\\jonya\\Desktop\\PorfolioWeb\\PorfolioWeb\\wwwroot\\js\\site.js",

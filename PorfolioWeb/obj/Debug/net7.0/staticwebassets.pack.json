@@ -21,8 +21,16 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\jonya\\Desktop\\PorfolioWeb\\PorfolioWeb\\wwwroot\\imagenes\\general\\jony.jpg",
-      "PackagePath": "staticwebassets\\imagenes\\general\\jony.jpg"
+      "Id": "C:\\Users\\jonya\\Desktop\\PorfolioWeb\\PorfolioWeb\\wwwroot\\imagenes\\general\\aboutYo.jpeg",
+      "PackagePath": "staticwebassets\\imagenes\\general\\aboutYo.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\jonya\\Desktop\\PorfolioWeb\\PorfolioWeb\\wwwroot\\imagenes\\general\\fondo_tecnologia.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\general\\fondo_tecnologia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jonya\\Desktop\\PorfolioWeb\\PorfolioWeb\\wwwroot\\imagenes\\general\\principal.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\general\\principal.jpg"
     },
     {
       "Id": "C:\\Users\\jonya\\Desktop\\PorfolioWeb\\PorfolioWeb\\wwwroot\\js\\site.js",
