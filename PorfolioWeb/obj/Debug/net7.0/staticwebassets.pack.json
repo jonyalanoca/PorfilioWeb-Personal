@@ -21,16 +21,36 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\jonya\\Desktop\\PorfolioWeb\\PorfolioWeb\\wwwroot\\imagenes\\general\\Sin título.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\general\\Sin título.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jonya\\Desktop\\PorfolioWeb\\PorfolioWeb\\wwwroot\\imagenes\\general\\Sin título2.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\general\\Sin título2.jpg"
+    },
+    {
       "Id": "C:\\Users\\jonya\\Desktop\\PorfolioWeb\\PorfolioWeb\\wwwroot\\imagenes\\general\\aboutYo.jpeg",
       "PackagePath": "staticwebassets\\imagenes\\general\\aboutYo.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\jonya\\Desktop\\PorfolioWeb\\PorfolioWeb\\wwwroot\\imagenes\\general\\desktop.ini",
+      "PackagePath": "staticwebassets\\imagenes\\general\\desktop.ini"
     },
     {
       "Id": "C:\\Users\\jonya\\Desktop\\PorfolioWeb\\PorfolioWeb\\wwwroot\\imagenes\\general\\fondo_tecnologia.jpg",
       "PackagePath": "staticwebassets\\imagenes\\general\\fondo_tecnologia.jpg"
     },
     {
+      "Id": "C:\\Users\\jonya\\Desktop\\PorfolioWeb\\PorfolioWeb\\wwwroot\\imagenes\\general\\phone.png",
+      "PackagePath": "staticwebassets\\imagenes\\general\\phone.png"
+    },
+    {
       "Id": "C:\\Users\\jonya\\Desktop\\PorfolioWeb\\PorfolioWeb\\wwwroot\\imagenes\\general\\principal.jpg",
       "PackagePath": "staticwebassets\\imagenes\\general\\principal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jonya\\Desktop\\PorfolioWeb\\PorfolioWeb\\wwwroot\\imagenes\\general\\—Pngtree—black mobile phone design png_5890355.png",
+      "PackagePath": "staticwebassets\\imagenes\\general\\—Pngtree—black mobile phone design png_5890355.png"
     },
     {
       "Id": "C:\\Users\\jonya\\Desktop\\PorfolioWeb\\PorfolioWeb\\wwwroot\\js\\site.js",
