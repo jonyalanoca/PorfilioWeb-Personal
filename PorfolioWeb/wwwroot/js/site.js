@@ -13,3 +13,36 @@ function MostrarOcultar(id) {
     }
      
 }
+
+
+// Obtener todos los elementos de enlace de la barra de navegación
+const navLinks = document.querySelectorAll('.navbar__link');
+
+// Agregar un controlador de eventos de clic a cada enlace
+navLinks.forEach(link => {
+    link.addEventListener('click', function () {
+        // Eliminar la clase 'selected' de todos los enlaces
+        navLinks.forEach(link => {
+            link.classList.remove('selected');
+        });
+
+        // Agregar la clase 'selected' al enlace actual
+        this.classList.add('selected');
+    });
+});
+
+
+
+
+const navbar = document.querySelector(".headerContainer");
+
+window.addEventListener("scroll", function () {
+    console.log("entra aca");
+    const scrollPosition = window.scrollY;
+
+    if (scrollPosition > navbar.offsetHeight) {
+        navbar.classList.add("scrolled");
+    } else {
+        navbar.classList.remove("scrolled");
+    }
+});

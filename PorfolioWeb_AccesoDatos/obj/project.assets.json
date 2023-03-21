@@ -3668,19 +3668,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jonya\\.nuget\\packages\\": {}
+    "C:\\Users\\Jonathan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jonya\\Desktop\\PorfolioWeb\\PorfolioWeb_AccesoDatos\\PorfolioWeb_AccesoDatos.csproj",
+      "projectUniqueName": "C:\\Users\\Jonathan\\Desktop\\PorfilioWeb-Personal\\PorfolioWeb_AccesoDatos\\PorfolioWeb_AccesoDatos.csproj",
       "projectName": "PorfolioWeb_AccesoDatos",
-      "projectPath": "C:\\Users\\jonya\\Desktop\\PorfolioWeb\\PorfolioWeb_AccesoDatos\\PorfolioWeb_AccesoDatos.csproj",
-      "packagesPath": "C:\\Users\\jonya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jonya\\Desktop\\PorfolioWeb\\PorfolioWeb_AccesoDatos\\obj\\",
+      "projectPath": "C:\\Users\\Jonathan\\Desktop\\PorfilioWeb-Personal\\PorfolioWeb_AccesoDatos\\PorfolioWeb_AccesoDatos.csproj",
+      "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jonathan\\Desktop\\PorfilioWeb-Personal\\PorfolioWeb_AccesoDatos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jonya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jonathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3694,11 +3694,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\jonya\\Desktop\\PorfolioWeb\\PorfolioWeb_Models\\PorfolioWeb_Models.csproj": {
-              "projectPath": "C:\\Users\\jonya\\Desktop\\PorfolioWeb\\PorfolioWeb_Models\\PorfolioWeb_Models.csproj"
+            "C:\\Users\\Jonathan\\Desktop\\PorfilioWeb-Personal\\PorfolioWeb_Models\\PorfolioWeb_Models.csproj": {
+              "projectPath": "C:\\Users\\Jonathan\\Desktop\\PorfilioWeb-Personal\\PorfolioWeb_Models\\PorfolioWeb_Models.csproj"
             },
-            "C:\\Users\\jonya\\Desktop\\PorfolioWeb\\PorfolioWeb_Utilidades\\PorfolioWeb_Utilidades.csproj": {
-              "projectPath": "C:\\Users\\jonya\\Desktop\\PorfolioWeb\\PorfolioWeb_Utilidades\\PorfolioWeb_Utilidades.csproj"
+            "C:\\Users\\Jonathan\\Desktop\\PorfilioWeb-Personal\\PorfolioWeb_Utilidades\\PorfolioWeb_Utilidades.csproj": {
+              "projectPath": "C:\\Users\\Jonathan\\Desktop\\PorfilioWeb-Personal\\PorfolioWeb_Utilidades\\PorfolioWeb_Utilidades.csproj"
             }
           }
         }
@@ -3748,7 +3748,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

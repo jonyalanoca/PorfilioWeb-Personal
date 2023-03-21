@@ -10,3 +10,15 @@ C:\Users\jonya\Desktop\PorfolioWeb\PorfolioWeb_Models\obj\Debug\net7.0\PorfolioW
 C:\Users\jonya\Desktop\PorfolioWeb\PorfolioWeb_Models\obj\Debug\net7.0\refint\PorfolioWeb_Models.dll
 C:\Users\jonya\Desktop\PorfolioWeb\PorfolioWeb_Models\obj\Debug\net7.0\PorfolioWeb_Models.pdb
 C:\Users\jonya\Desktop\PorfolioWeb\PorfolioWeb_Models\obj\Debug\net7.0\ref\PorfolioWeb_Models.dll
+C:\Users\Jonathan\Desktop\PorfilioWeb-Personal\PorfolioWeb_Models\bin\Debug\net7.0\PorfolioWeb_Models.deps.json
+C:\Users\Jonathan\Desktop\PorfilioWeb-Personal\PorfolioWeb_Models\bin\Debug\net7.0\PorfolioWeb_Models.dll
+C:\Users\Jonathan\Desktop\PorfilioWeb-Personal\PorfolioWeb_Models\bin\Debug\net7.0\PorfolioWeb_Models.pdb
+C:\Users\Jonathan\Desktop\PorfilioWeb-Personal\PorfolioWeb_Models\obj\Debug\net7.0\PorfolioWeb_Models.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Desktop\PorfilioWeb-Personal\PorfolioWeb_Models\obj\Debug\net7.0\PorfolioWeb_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\PorfilioWeb-Personal\PorfolioWeb_Models\obj\Debug\net7.0\PorfolioWeb_Models.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\PorfilioWeb-Personal\PorfolioWeb_Models\obj\Debug\net7.0\PorfolioWeb_Models.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\PorfilioWeb-Personal\PorfolioWeb_Models\obj\Debug\net7.0\PorfolioWeb_Models.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\PorfilioWeb-Personal\PorfolioWeb_Models\obj\Debug\net7.0\PorfolioWeb_Models.dll
+C:\Users\Jonathan\Desktop\PorfilioWeb-Personal\PorfolioWeb_Models\obj\Debug\net7.0\refint\PorfolioWeb_Models.dll
+C:\Users\Jonathan\Desktop\PorfilioWeb-Personal\PorfolioWeb_Models\obj\Debug\net7.0\PorfolioWeb_Models.pdb
+C:\Users\Jonathan\Desktop\PorfilioWeb-Personal\PorfolioWeb_Models\obj\Debug\net7.0\ref\PorfolioWeb_Models.dll
